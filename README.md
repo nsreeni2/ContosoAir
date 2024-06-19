@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ksneel/ContosoAir2/_apis/build/status%2Fnsreeni2.ContosoAir?branchName=master)](https://dev.azure.com/ksneel/ContosoAir2/_build/latest?definitionId=3&branchName=master)
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
